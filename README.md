@@ -1,3 +1,3 @@
-![source-defender](http://source-defender-shared-resources-badges-us-west-2.s3.amazonaws.com/bigspotteddog/mini-java-maven-app/source-defender.svg)
+![source-defender](https://90s51czw97.execute-api.us-west-1.amazonaws.com/prod/badges/bigspotteddog/mini-java-maven-app/depshield.svg)
 
 # mini-java-maven-app
